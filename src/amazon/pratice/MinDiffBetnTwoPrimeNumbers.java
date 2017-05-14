@@ -27,6 +27,6 @@ public class MinDiffBetnTwoPrimeNumbers {
 				
 			}
 		}
-		
+		return 0;
 	}
 }
